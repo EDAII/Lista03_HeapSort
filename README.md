@@ -14,6 +14,8 @@ O objetivo do programa e a implementacao do algoritmo de ordenacao HeapSort, que
 
 <h4>Grafico gerado pelo algoritmo</h4>
 
+![print1](https://user-images.githubusercontent.com/24305332/38454237-baa813e0-3a39-11e8-94a2-f6d8541bbba0.png)
+
 #### Para executar
 
 <pre><code>
